@@ -1,0 +1,85 @@
+Wednesday, 05/04/2023 04:12:23
+Event > Exit through App > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:140   IndexPage
+
+Wednesday, 05/04/2023 04:12:19
+ >  > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:97   DeleteDesignedCarPage
+
+Wednesday, 05/04/2023 04:12:18
+Info > Selected Design has been successfully deleted
+ > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:95   DeleteDesignedCarPage
+
+Wednesday, 05/04/2023 04:12:14
+ >  > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:97   DeleteDesignedCarPage
+
+Wednesday, 05/04/2023 04:12:13
+Info > Selected Design has been successfully deleted
+ > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:95   DeleteDesignedCarPage
+
+Wednesday, 05/04/2023 04:12:08
+Error > No Car Exist for the entered ID >    at DesignCar.AppCode.Designs.DeleteCarDesign(Int32 carId) in C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\Designs.cs:line 362
+   at DesignCar.AppCode.UI.DeleteDesignedCarPage() in C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs:line 94
+
+Wednesday, 05/04/2023 04:12:04
+Event > Redirected to Delete Designed Car Page > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:30   DeleteDesignedCarPage
+
+Wednesday, 05/04/2023 04:11:56
+Warning > You are on First Page > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\Designs.cs   Line:322   DisplayCarDesigns
+
+Wednesday, 05/04/2023 04:11:53
+Event > Redirected to Display Designed Car Page > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:24   DisplayDesignedCarsPage
+
+Wednesday, 05/04/2023 04:11:51
+Info > 
+	Design Has been created Successfully
+ > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\Car.cs   Line:193   InputDetails
+
+Wednesday, 05/04/2023 04:11:35
+Event > Redirected to Design New Car Page > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:11   DesignNewCarPage
+
+Wednesday, 05/04/2023 04:11:33
+Info > 
+	Design Has been created Successfully
+ > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\Car.cs   Line:193   InputDetails
+
+Wednesday, 05/04/2023 04:11:22
+Event > Redirected to Design New Car Page > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:11   DesignNewCarPage
+
+Wednesday, 05/04/2023 04:11:21
+Event > Redirected to Index Page > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:120   IndexPage
+
+Wednesday, 05/04/2023 04:11:10
+Event > Redirected to Design New Car Page > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:11   DesignNewCarPage
+
+Wednesday, 05/04/2023 04:10:55
+Error > Provide the valid input (y/n)
+ > AppCode/Designs.cs   Line : 518   Want() to Go back 
+
+Wednesday, 05/04/2023 04:10:52
+Error > You just cancelled the Deletion >    at DesignCar.AppCode.Designs.DeleteCarDesign(Int32 carId) in C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\Designs.cs:line 357
+   at DesignCar.AppCode.UI.DeleteDesignedCarPage() in C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs:line 94
+
+Wednesday, 05/04/2023 04:10:42
+Event > Redirected to Delete Designed Car Page > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:30   DeleteDesignedCarPage
+
+Wednesday, 05/04/2023 04:10:41
+Event > Redirected to Index Page > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:120   IndexPage
+
+Wednesday, 05/04/2023 04:10:37
+Event > Redirected to Delete Designed Car Page > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:30   DeleteDesignedCarPage
+
+Wednesday, 05/04/2023 04:10:35
+Event > Redirected to Index Page > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:120   IndexPage
+
+Wednesday, 05/04/2023 04:09:26
+Event > Exit through App > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:140   IndexPage
+
+Wednesday, 05/04/2023 04:09:16
+Error > Provide the valid input (y/n)
+ > AppCode/Designs.cs   Line : 518   Want() to Go back 
+
+Wednesday, 05/04/2023 04:09:10
+Event > Redirected to Delete Designed Car Page > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:30   DeleteDesignedCarPage
+
+Wednesday, 05/04/2023 04:09:08
+Event > Redirected to Index Page > C:\Users\kagarwal\Desktop\codes\Assignments\CustomizedVehicle\Main\DesignCars\AppCode\UI.cs   Line:120   IndexPage
+
